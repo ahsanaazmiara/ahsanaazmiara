@@ -1,12 +1,12 @@
 <h1 align="center">Ahsana Azmiara Ahmadiham</h1>
 
-Perkenalkan nama saya **Ahsana Azmiara Ahmadiham**.<br>
+Hello! My name is **Ahsana Azmiara Ahmadiham**.<br>
 
-Saya seorang **Mahasiswa Teknik Informatika** di **Universitas Palangka Raya**.<br>
+I am a **Computer Science Student** at **University of Palangka Raya**.<br>
 
-Saya memiliki minat kuat dalam pengembangan perangkat lunak. Saat ini aku sedang belajar menjadi Front-End Web dan Back-End Developer.<br>
+I have a strong interest in software development. Currently, I am learning to become a Front-End and Back-End Developer.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahsana-azmiara-ahmadiham-671157321/)ku ya.
+If you'd like to connect with me, feel free to follow my [LinkedIn](https://www.linkedin.com/in/ahsana-azmiara-ahmadiham-671157321/) profile.
 
 <a href="https://www.instagram.com/ahsanaazmiara/">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
